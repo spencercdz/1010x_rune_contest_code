@@ -1,4 +1,4 @@
-# ![2025 Contest Results](./contest_results_2025.png)
+# ![Contest Results](2025_contest_results.png)
 
 
 ## Files Overview  
